@@ -2,7 +2,7 @@
 
 import os
 
-ENTRY = "v1.0.1: Fixed bug where brain reopened every embarrassing moment at 3am; sleep now stays closed until morning."
+ENTRY = "Fixed: sleep() no longer reopens 47 tabs at 3am to replay that awkward thing you said in 2019; brain now closes all tabs at bedtime."
 
 
 def main() -> None:
