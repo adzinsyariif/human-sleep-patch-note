@@ -2,7 +2,7 @@
 
 import os
 
-ENTRY = "Fixed human sleep: you will now fall asleep instantly and stay asleep all night."
+ENTRY = "v1.0.1: Fixed bug where brain reopened every embarrassing moment at 3am; sleep now stays closed until morning."
 
 
 def main() -> None:
